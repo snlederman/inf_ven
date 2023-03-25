@@ -1,0 +1,8 @@
+{
+  "HOST": "localhost",
+  "MYSQL_USER": "root",
+  "MYSQL_PASSWORD": "rootroot",
+  "MAIN_URL": "https://www.elplazas.com/Products.php",
+  "GENERAL_URL": "https://www.elplazas.com",
+  "DATA_TYPE": "VARCHAR(200)"
+}
